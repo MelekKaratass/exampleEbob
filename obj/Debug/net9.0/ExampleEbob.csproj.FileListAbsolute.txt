@@ -1,0 +1,14 @@
+C:\calismalarim\ExampleEbob\ExampleEbob\bin\Debug\net9.0\ExampleEbob.exe
+C:\calismalarim\ExampleEbob\ExampleEbob\bin\Debug\net9.0\ExampleEbob.deps.json
+C:\calismalarim\ExampleEbob\ExampleEbob\bin\Debug\net9.0\ExampleEbob.runtimeconfig.json
+C:\calismalarim\ExampleEbob\ExampleEbob\bin\Debug\net9.0\ExampleEbob.dll
+C:\calismalarim\ExampleEbob\ExampleEbob\bin\Debug\net9.0\ExampleEbob.pdb
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.GeneratedMSBuildEditorConfig.editorconfig
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.AssemblyInfoInputs.cache
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.AssemblyInfo.cs
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.csproj.CoreCompileInputs.cache
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.dll
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\refint\ExampleEbob.dll
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.pdb
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ExampleEbob.genruntimeconfig.cache
+C:\calismalarim\ExampleEbob\ExampleEbob\obj\Debug\net9.0\ref\ExampleEbob.dll
